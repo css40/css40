@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&height=70&lines=%C2%A1Hola%2C+Mundo!;Soy+Jhos+%F0%9F%91%BB+Desde+Nicaragua;Fundador+de+Pixelblade+Games;Game+Dev+%26+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&height=70&lines=%C2%A1Hola%2C+Mundo!;Soy+Sr.+Pixel+%F0%9F%91%BB+Desde+Nicaragua;Game+Dev+%26+Software+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,9 +15,9 @@
 ---
 
 ### 🕹️ ¿Quién soy?
-* 💻 **Estudiante:** Ingeniería en Computación en la UNI.
-* 🚀 **Creador:** Fundador, programador y diseñador en **Pixelblade Games**.
-* 🛠️ **Pasión:** Desarrollo de herramientas de software independientes, utilidades y videojuegos en pixel art.
+- 💻 **Estudiante:** Ingeniería en Computación en la UNI.
+- 🚀 **Creador:** Programador, diseñador y desarrollador independiente de software.
+- 🛠️ **Pasión:** Desarrollo de herramientas independientes, utilidades y videojuegos en pixel art.
 
 ---
 
@@ -42,7 +42,7 @@
 > *Esta animación interactiva toma tus cuadros de actividad y los convierte en un juego estilo Snake que va comiendo tus commits.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/platane/master/github-snake.svg" alt="GitHub Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/css40/css40/output/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
 </p>
 
 ---
