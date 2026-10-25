@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <b>⚡ "La programación se trata de pasión y creatividad. No hay reglas fijas, solo líneas de código que dan vida a tus ideas." ⚡</b>
+  <b> "La programación se trata de pasión y creatividad. No hay reglas fijas, solo líneas de código que dan vida a tus ideas." </b>
 </p>
 
 ---
@@ -38,8 +38,7 @@
 
 ---
 
-### 🐍 Actividad en Acción (El "Snake" de Commits)
-> *Esta animación interactiva toma tus cuadros de actividad y los convierte en un juego estilo Snake que va comiendo tus commits.*
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/css40/css40/output/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
