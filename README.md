@@ -64,11 +64,15 @@
   </tr>
   <tr>
     <td><b>Motores e IDEs</b></td>
-    <td><img src="https://skillicons.dev/icons?i=unity,eclipse,androidstudio&theme=dark" alt="Motores e IDEs" /> <img src="assets/logo-pixel.png" height="48" alt="Logo de Sr. Pixel" /></td>
+    <td><img src="https://skillicons.dev/icons?i=unity,eclipse,androidstudio&theme=dark" alt="Motores e IDEs" /></td>
   </tr>
   <tr>
     <td><b>Entorno</b></td>
     <td><img src="https://skillicons.dev/icons?i=windows,linux,git,github,discord&theme=dark" alt="Entorno" /></td>
+  </tr>
+  <tr>
+    <td><b>Mis proyectos</b></td>
+    <td><img src="assets/logo-pixel.png" height="48" alt="Logo de Sr. Pixel" /> <img src="assets/logo-vs.png" height="48" alt="Logo de VS" /> <img src="assets/sun.png" height="48" alt="Logo de Sun" /></td>
   </tr>
 </table>
 
