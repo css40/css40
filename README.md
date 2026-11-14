@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td><b>Mis proyectos</b></td>
-    <td><img src="assets/logo-pixel.png" height="48" alt="Logo de Sr. Pixel" /> <img src="assets/logo-vs.png" height="48" alt="Logo de VS" /> <img src="assets/sun.png" height="48" alt="Logo de Sun" /></td>
+    <td><img src="assets/logo-pixel.png" height="48" alt="Logo de Sr. Pixel" /> <img src="assets/logo-vs.png" height="48" alt="Logo de VS" /> <img src="assets/sun.png" height="48" alt="Logo de Sun" /> <img src="assets/mrpixel.png" height="48" alt="Mr. Pixel" /></td>
   </tr>
 </table>
 
