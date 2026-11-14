@@ -30,18 +30,7 @@
 
 ---
 
-## Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/css40/css40/profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="Estadísticas generales" />
-  <img src="https://raw.githubusercontent.com/css40/css40/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Lenguajes más utilizados" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=css40&theme=tokyonight&hide_border=true" width="100%" alt="Racha de contribuciones" />
-</p>
-
----
 
 ## Actividad de Contribuciones
 
