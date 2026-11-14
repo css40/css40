@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td><b>Motores e IDEs</b></td>
-    <td><img src="https://skillicons.dev/icons?i=unity,eclipse,androidstudio&theme=dark" alt="Motores e IDEs" /> <img src="assets/logo-vs.png" height="48" alt="Visual Studio Code" /></td>
+    <td><img src="https://skillicons.dev/icons?i=unity,eclipse,androidstudio&theme=dark" alt="Motores e IDEs" /> <img src="assets/logo-pixel.png" height="48" alt="Logo de Sr. Pixel" /></td>
   </tr>
   <tr>
     <td><b>Entorno</b></td>
