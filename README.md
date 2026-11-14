@@ -60,15 +60,15 @@
   </tr>
   <tr>
     <td><b>Web</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Web" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,flask,django,ruby&theme=dark" alt="Web" /></td>
   </tr>
   <tr>
     <td><b>Motores e IDEs</b></td>
-    <td><img src="https://skillicons.dev/icons?i=unity,eclipse,androidstudio&theme=dark" alt="Motores e IDEs" /></td>
+    <td><img src="https://skillicons.dev/icons?i=unity,eclipse,androidstudio&theme=dark" alt="Motores e IDEs" /> <img src="assets/logo-vs.png" height="48" alt="Visual Studio Code" /></td>
   </tr>
   <tr>
     <td><b>Entorno</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,git,github,discord&theme=dark" alt="Entorno" /></td>
+    <td><img src="https://skillicons.dev/icons?i=windows,linux,git,github,discord&theme=dark" alt="Entorno" /></td>
   </tr>
 </table>
 
