@@ -33,8 +33,8 @@
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=css40&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Estadísticas generales" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=css40&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes más utilizados" />
+  <img src="https://raw.githubusercontent.com/css40/css40/profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="Estadísticas generales" />
+  <img src="https://raw.githubusercontent.com/css40/css40/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Lenguajes más utilizados" />
 </p>
 
 <p align="center">
